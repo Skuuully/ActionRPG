@@ -1,0 +1,3 @@
+Files required should go iside a folder called "MarketplaceAssets" inside the Content folder:
+> FX Variety Pack
+>Paragon: Agora and Monolith
