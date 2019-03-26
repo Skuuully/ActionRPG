@@ -2,3 +2,4 @@ Files required should go iside a folder called "MarketplaceAssets" inside the Co
 > FX Variety Pack
 > Paragon: Agora and Monolith
 > Procedural Nature Pack Vol.1
+> Free fantasy weapon sample pack
