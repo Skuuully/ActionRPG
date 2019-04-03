@@ -841,3 +841,1077 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.03-08.59.27:971][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2019.04.03-08.59.28:015][661]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
 [2019.04.03-08.59.28:474][661]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-08.59.30:433][793]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton.pirate_p_konstantinov_Skeleton
+[2019.04.03-08.59.30:440][793]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-08.59.30:479][793]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.01.12:311][914]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_SkeletonEAF6D5BC444E8DC6ABA7DD948A1B93E8.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton.uasset'
+[2019.04.03-09.02.12:734][ 92]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_Skeleton5E070D534C471E9FC39F00B2CAD856F2.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton.uasset'
+[2019.04.03-09.03.04:858][313]LogSlate: Window 'pirate_p_konstantinov_Skeleton' being destroyed
+[2019.04.03-09.03.04:875][313]LogSlate: Window 'pirate_p_konstantinov_Skeleton' being destroyed
+[2019.04.03-09.03.09:409][663]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.03.15:510][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.03.15:511][266]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.03.15:512][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.03.15:513][266]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.03.15:519][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.03.15:520][266]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.03.15:523][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.03.15:524][266]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.03.15:530][266]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.04.03-09.03.18:539][480]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.03.18:547][480]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.03.18:573][480]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.03.18:997][480]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.03.48:875][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.03.49:027][342]LogSlate: Window 'Standing_Melee_Basic*' being destroyed
+[2019.04.03-09.03.49:033][342]LogSlate: Window 'Standing_Melee_Basic*' being destroyed
+[2019.04.03-09.04.04:247][583]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.03-09.04.23:298][608]LogEditorViewport: Clicking on Actor (context menu): Landscape (GrassFloor)
+[2019.04.03-09.04.23:373][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-09.04.28:536][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.05.05:707][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.05.05:864][ 85]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.386 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.03-09.05.07:476][183]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.05.07:484][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.05.07:532][183]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.05.08:071][183]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.05.09:928][275]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton.pirate_p_konstantinov_Skeleton
+[2019.04.03-09.05.09:936][275]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.05.09:973][275]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.07.34:616][622]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Arena_Auto40C5772184D90E433A89F92B2570AEAF5.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/Levels/Arena_Auto4.umap'
+[2019.04.03-09.07.34:630][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena' took 4.237
+[2019.04.03-09.07.34:630][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.237
+[2019.04.03-09.07.34:634][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Enemy_BP] ([1] browsable assets)...
+[2019.04.03-09.07.34:672][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Enemy_BP.Enemy_BP]
+[2019.04.03-09.07.34:672][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Enemy_BP]
+[2019.04.03-09.07.34:820][622]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Enemy_BP_Auto41AEB02D44585F25A1A13CD8D9D3CC533.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Enemy_BP_Auto4.uasset'
+[2019.04.03-09.07.34:823][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.04.03-09.07.34:823][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.04.03-09.07.34:865][622]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4_Mannequin_Skeleton_Auto4012505D947CC56234171E6B479700CF9.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset'
+[2019.04.03-09.07.34:867][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton] ([1] browsable assets)...
+[2019.04.03-09.07.34:867][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton]
+[2019.04.03-09.07.34:909][622]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_Skeleton_AB6D50C0E42BB03942C5DC3A403D2C188.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton_Auto4.uasset'
+[2019.04.03-09.07.34:911][622]LogFileHelpers: Auto-saving content packages took 0.278
+[2019.04.03-09.08.43:514][801]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_SkeletonA91886724AA385200663AB9AFEFA06DD.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton.uasset'
+[2019.04.03-09.08.46:235][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.08.46:307][930]LogSlate: Window 'pirate_p_konstantinov_Skeleton' being destroyed
+[2019.04.03-09.08.46:327][930]LogSlate: Window 'pirate_p_konstantinov_Skeleton' being destroyed
+[2019.04.03-09.08.47:973][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.08.52:324][263]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.08.58:340][679]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.08.58:341][679]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.08.58:344][679]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.08.58:344][679]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.08.58:352][679]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.08.58:352][679]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.08.58:355][679]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.08.58:356][679]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Basic) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.08.58:362][679]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.04.03-09.08.59:872][747]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.08.59:884][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.08.59:914][747]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.09.00:519][747]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.09.06:356][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.09.31:812][408]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.04.03-09.09.31:819][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.09.31:857][408]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.09.39:069][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.09.58:300][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-09.10.21:720][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.11.04:518][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.11.43:328][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.11.43:421][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standing_Melee_Basic" FILE="../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Standing_Melee_Basic.uasset" SILENT=true
+[2019.04.03-09.11.43:441][725]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Basic0AF2AAC14F894C933233C49A073241EE.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Standing_Melee_Basic.uasset'
+[2019.04.03-09.11.45:601][847]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.04.03-09.11.45:620][847]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.04.03-09.11.51:824][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.11.51:929][334]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-09.11.51:951][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.11.51:951][334]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.03-09.11.51:964][334]LogPlayLevel: [PlayLevel] Compiling EnemySpawner before play...
+[2019.04.03-09.11.51:973][334]LogPlayLevel: [PlayLevel]   Compiling Enemy_BP as a dependent...
+[2019.04.03-09.11.51:986][334]LogPlayLevel: [PlayLevel]   Compiling Main_Character as a dependent...
+[2019.04.03-09.11.52:700][334]LogPlayLevel: PlayLevel: Blueprint regeneration took 749 ms (3 blueprints)
+[2019.04.03-09.11.52:700][334]PIE: New page: PIE session: Arena (3 Apr 2019 11:11:52)
+[2019.04.03-09.11.52:709][334]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena
+[2019.04.03-09.11.53:048][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.339152s)
+[2019.04.03-09.11.53:049][334]LogAIModule: Creating AISystem for world Arena
+[2019.04.03-09.11.53:049][334]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2019.04.03-09.11.53:049][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena.Arena to /Game/Levels/UEDPIE_0_Arena.Arena (0.340821s)
+[2019.04.03-09.11.53:131][334]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.04.03-09.11.53:152][334]LogInit: FAudioDevice initialized.
+[2019.04.03-09.11.53:188][334]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.03-09.11.53:249][334]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2019.04.03-10.11.53
+[2019.04.03-09.11.53:252][334]LogWorld: Bringing up level for play took: 0.063481
+[2019.04.03-09.11.53:270][334]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena 0.456
+[2019.04.03-09.11.53:270][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.11.57:798][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.11.57:798][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.11.57:846][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.11.57:846][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.11.57:895][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.11.57:929][841]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.04.03-09.12.00:699][124]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Standing_Melee_Basic)
+[2019.04.03-09.12.04:968][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.12.05:037][496]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-09.12.05:059][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.12.05:059][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-09.12.05:060][496]PIE: New page: PIE session: Arena (3 Apr 2019 11:12:05)
+[2019.04.03-09.12.05:060][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena
+[2019.04.03-09.12.05:272][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211341s)
+[2019.04.03-09.12.05:273][496]LogAIModule: Creating AISystem for world Arena
+[2019.04.03-09.12.05:274][496]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2019.04.03-09.12.05:274][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena.Arena to /Game/Levels/UEDPIE_0_Arena.Arena (0.212873s)
+[2019.04.03-09.12.05:345][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.04.03-09.12.05:363][496]LogInit: FAudioDevice initialized.
+[2019.04.03-09.12.05:396][496]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.03-09.12.05:477][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2019.04.03-10.12.05
+[2019.04.03-09.12.05:480][496]LogWorld: Bringing up level for play took: 0.082895
+[2019.04.03-09.12.05:500][496]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena 0.686
+[2019.04.03-09.12.05:500][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.12.11:008][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.12.11:008][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.12.11:067][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.12.11:068][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.12.11:130][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.12.11:166][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.04.03-09.12.12:241][166]LogEditorViewport: Clicking on Actor (LMB): BP_ky_magicCircle1_C (BP_ky_magicCircle1)
+[2019.04.03-09.12.15:112][383]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Standing_Melee_Basic)
+[2019.04.03-09.12.16:012][445]Cmd: DELETE
+[2019.04.03-09.12.16:012][445]Cmd: ACTOR DELETE
+[2019.04.03-09.12.16:112][445]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.04.03-09.12.16:160][445]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2019.04.03-09.12.24:860][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.13.10:584][623]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.04.03-09.13.10:671][624]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.03-09.13.10:671][624]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.03-09.13.10:671][624]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.03-09.13.10:671][624]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.03-09.13.10:671][624]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.03-09.13.10:731][624]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.04.03-09.13.10:762][624]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.03-09.13.10:763][624]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.03-09.13.10:763][624]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.03-09.13.10:880][625]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.04.03-09.13.11:041][626]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.04.03-09.13.12:359][703]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.04.03-09.13.13:223][739]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.04.03-09.13.13:256][741]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.04.03-09.13.13:262][741]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.04.03-09.13.13:405][747]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.04.03-09.13.13:602][755]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.04.03-09.13.13:617][756]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.04.03-09.13.15:154][829]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.04.03-09.13.15:325][837]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.03-09.13.15:407][841]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.03-09.13.15:773][857]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-09.13.22:816][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_GlossyBlack_Latex_UE46CC2717D45AF5D5CA00F8983507E96F4.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/ML_GlossyBlack_Latex_UE4.uasset'
+[2019.04.03-09.13.22:865][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_Plastic_Shiny_BeigeA2B1CCB040C21B520A367382F7DCD06D.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/ML_Plastic_Shiny_Beige.uasset'
+[2019.04.03-09.13.22:933][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_SoftMetal_UE4CFAF810D4FCB0646DF5DBE9C213F05DA.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/ML_SoftMetal_UE4.uasset'
+[2019.04.03-09.13.23:003][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_Plastic_Shiny_Beige_LOGO03B76180496D0F707F271EA11519D648.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.04.03-09.13.23:071][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Aluminum01A42B4E25475C63D75E5A1E9FDC69B47C.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/T_ML_Aluminum01.uasset'
+[2019.04.03-09.13.23:133][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Aluminum01_NF5E236B04DAB8A6F83BE36BC1CB9745E.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/T_ML_Aluminum01_N.uasset'
+[2019.04.03-09.13.23:233][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Rubber_Blue_01_D9F3317084B0D8F2F7C7697ACE52A11C0.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/T_ML_Rubber_Blue_01_D.uasset'
+[2019.04.03-09.13.23:283][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Rubber_Blue_01_N48418EF445E20890D380B9A8542591B5.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/T_ML_Rubber_Blue_01_N.uasset'
+[2019.04.03-09.13.25:868][180]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/M_UE4Man_Body182275654EC35DFE218C9096FC4339DE.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2019.04.03-09.13.47:320][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4_LOGO_CARD864B3987413D0151DBD43EB01275AF63.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/UE4_LOGO_CARD.uasset'
+[2019.04.03-09.13.47:438][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4_Mannequin__normalsFFE8D1EE45170A5DBBF907B7FEFE1D97.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/UE4_Mannequin__normals.uasset'
+[2019.04.03-09.13.47:469][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4_Mannequin_MAT_MASKA39C4196945E4C0E111EE089D107DAF56.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/UE4_Mannequin_MAT_MASKA.uasset'
+[2019.04.03-09.13.47:499][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4Man_Logo_N23FF3ACA4BDFCC1B1300F3A34819C97A.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/UE4Man_Logo_N.uasset'
+[2019.04.03-09.13.48:906][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_Plastic_Shiny_Beige_LOGOB09728434D0D74BC54A5778DAF223FCA.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.04.03-09.13.48:930][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/M_UE4Man_Body4A039A49470A1E17750BA1BFDF5A0975.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2019.04.03-09.13.48:990][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/M_UE4Man_ChestLogoE2A2AFAD4034590AFEB722A6F25D4E3E.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2019.04.03-09.13.57:826][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/SK_Mannequin5448BDBA49C99BE603044FA0996B9ABD.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/SK_Mannequin.uasset'
+[2019.04.03-09.13.57:918][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/SK_Mannequin_PhysicsAsset5121B5A444C665886915149D1F8CE447.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/SK_Mannequin_PhysicsAsset.uasset'
+[2019.04.03-09.13.57:948][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4_Mannequin_SkeletonE06FE5724FA239E2A5FA128CA7E536C5.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/UE4_Mannequin_Skeleton.uasset'
+[2019.04.03-09.13.58:995][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Enemy_BPBE8F39BE40287761E8A99B81C49ECA54.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/ThirdPersonBP/Blueprints/Enemy_BP.uasset'
+[2019.04.03-09.13.59:287][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Main_Character40D12B574DF465145AC97CA096FA31A0.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/ThirdPersonBP/Blueprints/Main_Character.uasset'
+[2019.04.03-09.13.59:388][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonIdleD7810019409B32DDACBE10943256DDBE.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2019.04.03-09.13.59:481][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonJump_EndFF74DA3B4DD127700B0765B1FE28213F.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2019.04.03-09.13.59:574][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonJump_LoopA5551FCE4D961CA059C0B980194F42E8.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2019.04.03-09.13.59:686][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonJump_Start867D17894F5595D574ED3E9F721B172A.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2019.04.03-09.13.59:786][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonRun494F5DE94FE1E802C737BCA4FF31C148.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2019.04.03-09.13.59:884][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonWalk000ECA354584B51E8A09FC82A4D75A97.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2019.04.03-09.14.00:075][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_AnimBP7ABB0AD94BA3B2994EBA479699EDBF13.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.04.03-09.14.00:174][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_IdleRun_2D8FD3732C4A1F753D266EA98B0E6B4374.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2019.04.03-09.14.00:271][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_Jump036DA52A4185AE9ECA38419DCF9CD6AC.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2019.04.03-09.14.00:278][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Standing_Melee_Basic" FILE="../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Standing_Melee_Basic.uasset" SILENT=true
+[2019.04.03-09.14.00:321][442]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Basic2A54947642D1FD072D2A5FB44B1F2DDE.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Standing_Melee_Basic.uasset'
+[2019.04.03-09.14.11:050][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/M_UE4Man_BodyB70892884401118A5BDA45A103909AC1.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/M_UE4Man_Body.uasset'
+[2019.04.03-09.14.11:120][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/M_UE4Man_ChestLogoF9E82F29493B44651A7C269C66FF0588.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/M_UE4Man_ChestLogo.uasset'
+[2019.04.03-09.14.11:194][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_GlossyBlack_Latex_UE41FDF50354EA1694A2A5CE9967DF249DA.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/ML_GlossyBlack_Latex_UE4.uasset'
+[2019.04.03-09.14.11:264][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_Plastic_Shiny_BeigeA248CB3C484A968DF6941093FA4A202E.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/ML_Plastic_Shiny_Beige.uasset'
+[2019.04.03-09.14.11:333][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_Plastic_Shiny_Beige_LOGOEC5318874D6A61CBD19E88879C781C51.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.04.03-09.14.11:407][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ML_SoftMetal_UE4E444DCD94E04F6560E1A5AB41A635384.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/ML_SoftMetal_UE4.uasset'
+[2019.04.03-09.14.11:472][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Aluminum01ED23AE074772AE984BB7DF894C4044F9.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/T_ML_Aluminum01.uasset'
+[2019.04.03-09.14.11:539][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Aluminum01_NE8DF834646617D3EC2990D8BEECBDD7E.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/T_ML_Aluminum01_N.uasset'
+[2019.04.03-09.14.11:630][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Rubber_Blue_01_D7407B1B94639903346707B8B50D9CA72.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/T_ML_Rubber_Blue_01_D.uasset'
+[2019.04.03-09.14.11:706][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/T_ML_Rubber_Blue_01_N7B552E3B452ABDC2C0F5279CF8DFAAD1.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/T_ML_Rubber_Blue_01_N.uasset'
+[2019.04.03-09.14.15:203][959]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/SK_Mannequin42B117F2422B7D7B1431ED869AB05831.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/SK_Mannequin.uasset'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:033][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:034][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.24:034][407]LogMetaData: Removing '/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.03-09.14.25:847][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_AnimBP886AFE5643A0E0CAAC10E88C1155F8FB.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.uasset'
+[2019.04.03-09.14.25:918][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_IdleRun_2D38BFF83E4C254C5D00E2F58C1870DF30.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPerson_IdleRun_2D.uasset'
+[2019.04.03-09.14.25:993][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_Jump5B4748664BFE800F527D1CB600BF8307.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPerson_Jump.uasset'
+[2019.04.03-09.14.26:053][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonIdle30B4A54049EA57CB503A5DAFE9C56E34.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPersonIdle.uasset'
+[2019.04.03-09.14.26:127][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonJump_End8F1D50C54253E261048249A4B1625C45.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPersonJump_End.uasset'
+[2019.04.03-09.14.26:203][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonJump_LoopB29FC820453ABC96BA77389AC95B8ED6.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPersonJump_Loop.uasset'
+[2019.04.03-09.14.26:278][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonJump_StartDACA3AF74909C0BBD301629B57DFC175.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPersonJump_Start.uasset'
+[2019.04.03-09.14.26:359][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonRun3CC518A642ECC05950C6959D6CE31896.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPersonRun.uasset'
+[2019.04.03-09.14.26:420][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPersonWalk5F40536948557386277BDCA279DF246E.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPersonWalk.uasset'
+[2019.04.03-09.14.29:290][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Enemy_BPB6D5E52544D2F5A71B81648A6629C242.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/ThirdPersonBP/Blueprints/Enemy_BP.uasset'
+[2019.04.03-09.14.29:559][407]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Main_CharacterFE8AD67E4AD1EBEA0C642492EB748953.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/ThirdPersonBP/Blueprints/Main_Character.uasset'
+[2019.04.03-09.14.36:123][812]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Basic92EAC19D4F3B980E031A128B04B6F82F.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Basic.uasset'
+[2019.04.03-09.15.04:717][855]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Mannequin/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.15.04:728][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.15.04:788][855]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.15.05:343][855]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.15.10:196][ 42]LogSlate: Window 'Standing_Melee_Basic' being destroyed
+[2019.04.03-09.15.10:203][ 42]LogSlate: Window 'Standing_Melee_Basic' being destroyed
+[2019.04.03-09.15.15:581][440]Cmd: DELETE
+[2019.04.03-09.15.15:581][440]Cmd: ACTOR DELETE
+[2019.04.03-09.15.15:704][440]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.04.03-09.15.15:770][440]LogEditorActor: Deleted 1 Actors (0.189 secs)
+[2019.04.03-09.15.17:158][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.15.19:143][703]Cmd: DELETE
+[2019.04.03-09.15.19:143][703]Cmd: ACTOR DELETE
+[2019.04.03-09.15.19:328][703]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.04.03-09.15.19:390][703]LogEditorActor: Deleted 1 Actors (0.247 secs)
+[2019.04.03-09.15.20:821][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.15.22:604][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.15.22:670][971]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-09.15.22:694][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.15.22:694][971]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.03-09.15.22:707][971]LogPlayLevel: [PlayLevel] Compiling EnemySpawner before play...
+[2019.04.03-09.15.22:716][971]LogPlayLevel: [PlayLevel]   Compiling Enemy_BP as a dependent...
+[2019.04.03-09.15.22:728][971]LogPlayLevel: [PlayLevel]   Compiling Main_Character as a dependent...
+[2019.04.03-09.15.23:204][971]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2019.04.03-09.15.23:808][971]LogPlayLevel: PlayLevel: Blueprint regeneration took 1113 ms (4 blueprints)
+[2019.04.03-09.15.23:808][971]PIE: New page: PIE session: Arena (3 Apr 2019 11:15:23)
+[2019.04.03-09.15.23:808][971]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena
+[2019.04.03-09.15.24:120][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.311576s)
+[2019.04.03-09.15.24:121][971]LogAIModule: Creating AISystem for world Arena
+[2019.04.03-09.15.24:121][971]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2019.04.03-09.15.24:121][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena.Arena to /Game/Levels/UEDPIE_0_Arena.Arena (0.312960s)
+[2019.04.03-09.15.24:195][971]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.04.03-09.15.24:213][971]LogInit: FAudioDevice initialized.
+[2019.04.03-09.15.24:246][971]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.03-09.15.24:306][971]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2019.04.03-10.15.24
+[2019.04.03-09.15.24:307][971]LogWorld: Bringing up level for play took: 0.060071
+[2019.04.03-09.15.24:324][971]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena 1.51
+[2019.04.03-09.15.24:324][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.15.35:468][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.15.35:468][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.15.35:518][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.15.35:519][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.15.35:588][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.15.35:626][256]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.04.03-09.15.36:840][399]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonWalk)
+[2019.04.03-09.15.37:590][445]Cmd: DELETE
+[2019.04.03-09.15.37:590][445]Cmd: ACTOR DELETE
+[2019.04.03-09.15.37:778][445]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.04.03-09.15.37:834][445]LogEditorActor: Deleted 1 Actors (0.244 secs)
+[2019.04.03-09.15.38:730][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.15.38:888][525]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.04.03-09.15.38:927][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.15.39:288][525]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.17.48:490][406]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2019.04.03-09.18.41:628][548]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Arena_Auto5A26FF5EE43AB65E3273475855F041518.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/Levels/Arena_Auto5.umap'
+[2019.04.03-09.18.41:635][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena' took 3.129
+[2019.04.03-09.18.41:635][548]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.129
+[2019.04.03-09.18.41:638][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton] ([1] browsable assets)...
+[2019.04.03-09.18.41:638][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton]
+[2019.04.03-09.18.41:665][548]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_Skeleton_AB057679D44A2B805850A3AB8CEE819A8.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton_Auto5.uasset'
+[2019.04.03-09.18.41:667][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2019.04.03-09.18.41:687][548]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2019.04.03-09.18.41:687][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP]
+[2019.04.03-09.18.41:763][548]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_AnimBP_Auto56B0B01224260EF63DC6C4CA9A2DA6CE8.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Autosaves/Game/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP_Auto5.uasset'
+[2019.04.03-09.18.41:764][548]LogFileHelpers: Auto-saving content packages took 0.127
+[2019.04.03-09.20.37:043][892]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2019.04.03-09.20.37:046][892]LogSlate: Window 'ThirdPerson_AnimBP*' being destroyed
+[2019.04.03-09.20.41:823][206]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Mannequin/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.20.41:836][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.20.41:885][206]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.20.42:551][206]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.20.44:977][344]LogSlate: Window 'Standing_Melee_Basic' being destroyed
+[2019.04.03-09.20.44:984][344]LogSlate: Window 'Standing_Melee_Basic' being destroyed
+[2019.04.03-09.23.58:140][461]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Attack 360 Low.fbx)
+[2019.04.03-09.23.58:154][461]LogFbx: Loading FBX Scene from ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Attack 360 Low.fbx
+[2019.04.03-09.23.58:182][461]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.24.05:077][461]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.24.05:126][461]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.24.05:127][461]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.24.05:128][461]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.24.05:132][461]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_360_Low'
+[2019.04.03-09.24.05:132][461]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_360_Low'
+[2019.04.03-09.24.05:530][461]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.24.05:530][461]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_360_Low) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.24.06:700][543]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.24.06:707][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.24.06:736][543]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.24.07:139][543]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.24.09:403][695]LogSlate: Window 'Standing_Melee_Attack_360_Low*' being destroyed
+[2019.04.03-09.24.09:415][695]LogSlate: Window 'Standing_Melee_Attack_360_Low*' being destroyed
+[2019.04.03-09.24.34:872][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Attack Backhand.fbx)
+[2019.04.03-09.24.34:885][928]LogFbx: Loading FBX Scene from ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Attack Backhand.fbx
+[2019.04.03-09.24.34:913][928]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.24.40:335][928]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.24.40:382][928]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.24.40:383][928]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.24.40:387][928]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_Backhand'
+[2019.04.03-09.24.40:387][928]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_Backhand'
+[2019.04.03-09.24.43:036][928]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_Backhand.Standing_Melee_Attack_Backhand
+[2019.04.03-09.24.43:038][928]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Backhand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.24.52:701][ 80]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Attack Downward.fbx)
+[2019.04.03-09.24.52:713][ 80]LogFbx: Loading FBX Scene from ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Attack Downward.fbx
+[2019.04.03-09.24.52:742][ 80]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.24.56:120][ 80]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.04.03-09.24.56:150][ 80]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.24.56:151][ 80]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.24.56:151][ 80]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.24.56:156][ 80]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_Downward'
+[2019.04.03-09.24.56:156][ 80]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_Downward'
+[2019.04.03-09.24.56:521][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2019.04.03-09.24.56:521][ 80]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Downward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.25.06:933][305]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Combo Attack Ver. 1.fbx)
+[2019.04.03-09.25.06:946][305]LogFbx: Loading FBX Scene from ../../../../../../Users/Ryan Skull/Downloads/Standing Melee Combo Attack Ver. 1.fbx
+[2019.04.03-09.25.06:980][305]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.03-09.25.10:775][305]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(0) Hips
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(1) Spine
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(2) Spine1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(3) Spine2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(4) Neck
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(5) Head
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(8) LeftArm
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(10) LeftHand
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(31) RightShoulder
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(32) RightArm
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(33) RightForeArm
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(34) RightHand
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(56) LeftLeg
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(57) LeftFoot
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.04.03-09.25.10:805][305]LogFbx: SortedLinks :(61) RightLeg
+[2019.04.03-09.25.10:806][305]LogFbx: SortedLinks :(62) RightFoot
+[2019.04.03-09.25.10:806][305]LogFbx: SortedLinks :(63) RightToeBase
+[2019.04.03-09.25.10:806][305]LogFbx: SortedLinks :(64) RightToe_End
+[2019.04.03-09.25.10:806][305]LogFbx: Parsing AnimStack mixamo.com
+[2019.04.03-09.25.10:811][305]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Combo_Attack_Ver__1'
+[2019.04.03-09.25.10:812][305]LogLinker: Can't find file '/Game/Mixamo/Animations/Pirate/Standing_Melee_Combo_Attack_Ver__1'
+[2019.04.03-09.26.02:088][305]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.02:112][305]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Combo_Attack_Ver__1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.26.06:175][317]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.706 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.03-09.26.27:489][422]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.27:497][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.26.27:524][422]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.26.27:948][422]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.26.32:238][715]LogSlate: Window 'Standing_Melee_Combo_Attack_Ver__1*' being destroyed
+[2019.04.03-09.26.32:254][715]LogSlate: Window 'Standing_Melee_Combo_Attack_Ver__1*' being destroyed
+[2019.04.03-09.26.37:918][959]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Pirate/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.37:927][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.26.37:978][959]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.26.38:448][959]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.26.43:180][284]LogSlate: Window 'Standing_Melee_Combo_Attack_Ver__1*' being destroyed
+[2019.04.03-09.26.43:185][284]LogSlate: Window 'Standing_Melee_Combo_Attack_Ver__1*' being destroyed
+[2019.04.03-09.26.48:385][647]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.26.52:548][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.52:604][ 15]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Combo_Attack_Ver__1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.26.52:918][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.52:970][ 15]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Combo_Attack_Ver__1) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.26.53:436][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.53:496][ 15]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Combo_Attack_Ver__1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.26.53:814][ 15]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Combo_Attack_Ver__1.Standing_Melee_Combo_Attack_Ver__1
+[2019.04.03-09.26.53:874][ 15]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Combo_Attack_Ver__1) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.26.54:156][ 15]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.04.03-09.27.08:175][ 72]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.03-09.27.10:396][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.27.10:397][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_360_Low) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:399][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.27.10:400][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_360_Low) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:408][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.27.10:409][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_360_Low) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:411][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.27.10:413][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_360_Low) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:430][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Backhand.Standing_Melee_Attack_Backhand
+[2019.04.03-09.27.10:433][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Backhand) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:448][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Backhand.Standing_Melee_Attack_Backhand
+[2019.04.03-09.27.10:451][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Backhand) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:479][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Backhand.Standing_Melee_Attack_Backhand
+[2019.04.03-09.27.10:482][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Backhand) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:499][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Backhand.Standing_Melee_Attack_Backhand
+[2019.04.03-09.27.10:502][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Backhand) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:522][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2019.04.03-09.27.10:522][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Downward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:525][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2019.04.03-09.27.10:526][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Downward) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:533][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2019.04.03-09.27.10:534][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Downward) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:536][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2019.04.03-09.27.10:537][274]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Melee_Attack_Downward) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.03-09.27.10:542][274]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.04.03-09.27.21:392][946]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Attack_360_Low5E1E29174545F86D0AFBEAA0D2F001A8.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Attack_360_Low.uasset'
+[2019.04.03-09.27.21:445][946]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Attack_BackhandC15C67A843486803AD30C08B81C757A7.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Attack_Backhand.uasset'
+[2019.04.03-09.27.21:488][946]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Attack_DownwardE2CABBD44FE0042AB897EA82B92A9168.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Attack_Downward.uasset'
+[2019.04.03-09.27.21:734][946]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Combo_Attack_Ver_F822E18C46F49D2FDCADBBAAB0F13872.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Combo_Attack_Ver__1.uasset'
+[2019.04.03-09.27.26:343][168]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Mannequin/Standing_Melee_Attack_360_Low.Standing_Melee_Attack_360_Low
+[2019.04.03-09.27.26:350][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.27.26:398][168]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.27.26:855][168]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.27.30:525][399]LogSlate: Window 'Standing_Melee_Attack_360_Low' being destroyed
+[2019.04.03-09.27.30:532][399]LogSlate: Window 'Standing_Melee_Attack_360_Low' being destroyed
+[2019.04.03-09.27.31:700][463]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Mannequin/Standing_Melee_Attack_Backhand.Standing_Melee_Attack_Backhand
+[2019.04.03-09.27.31:708][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.27.31:754][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.27.32:194][463]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.27.35:311][647]LogSlate: Window 'Standing_Melee_Attack_Backhand' being destroyed
+[2019.04.03-09.27.35:317][647]LogSlate: Window 'Standing_Melee_Attack_Backhand' being destroyed
+[2019.04.03-09.27.36:543][707]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Mannequin/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2019.04.03-09.27.36:551][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.27.36:599][707]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.27.37:056][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.27.40:705][955]LogSlate: Window 'Standing_Melee_Attack_Downward' being destroyed
+[2019.04.03-09.27.40:711][955]LogSlate: Window 'Standing_Melee_Attack_Downward' being destroyed
+[2019.04.03-09.27.41:933][ 28]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mixamo/Animations/Mannequin/Standing_Melee_Basic.Standing_Melee_Basic
+[2019.04.03-09.27.41:941][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.03-09.27.41:986][ 28]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.03-09.27.42:497][ 28]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.03-09.27.43:974][103]LogSlate: Window 'Standing_Melee_Basic' being destroyed
+[2019.04.03-09.27.43:980][103]LogSlate: Window 'Standing_Melee_Basic' being destroyed
+[2019.04.03-09.28.01:994][142]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Downward8B1E5DB043D66A13516320B140E4925F.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Downward.uasset'
+[2019.04.03-09.28.16:565][ 24]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_ComboC8421D4E4A0B749FEC61C28FBCECC303.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Combo.uasset'
+[2019.04.03-09.28.34:324][152]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Backhand4DBE8D5F4C9937AECC729CB8C596E2B5.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_Backhand.uasset'
+[2019.04.03-09.28.44:007][738]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_360_Low0B49ED904519E9563FE9CF8A5A1D05CC.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/Standing_Melee_360_Low.uasset'
+[2019.04.03-09.28.57:249][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.28.57:314][706]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-09.28.57:336][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.28.57:336][706]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.03-09.28.57:347][706]LogPlayLevel: [PlayLevel] Compiling ThirdPerson_AnimBP before play...
+[2019.04.03-09.28.57:681][706]LogPlayLevel: PlayLevel: Blueprint regeneration took 344 ms (1 blueprints)
+[2019.04.03-09.28.57:681][706]PIE: New page: PIE session: Arena (3 Apr 2019 11:28:57)
+[2019.04.03-09.28.57:681][706]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena
+[2019.04.03-09.28.57:850][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.168249s)
+[2019.04.03-09.28.57:850][706]LogAIModule: Creating AISystem for world Arena
+[2019.04.03-09.28.57:851][706]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2019.04.03-09.28.57:851][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena.Arena to /Game/Levels/UEDPIE_0_Arena.Arena (0.169448s)
+[2019.04.03-09.28.57:913][706]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.04.03-09.28.57:929][706]LogInit: FAudioDevice initialized.
+[2019.04.03-09.28.57:965][706]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.03-09.28.58:005][706]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2019.04.03-10.28.58
+[2019.04.03-09.28.58:008][706]LogWorld: Bringing up level for play took: 0.042362
+[2019.04.03-09.28.58:024][706]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena 1.21
+[2019.04.03-09.28.58:024][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.29.04:246][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.29.04:246][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.29.04:294][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-09.29.04:294][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Levels/Arena.Arena_C' with ClassGeneratedBy '/Game/Levels/Arena.Arena:PersistentLevel.Arena'
+[2019.04.03-09.29.04:340][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-09.29.04:382][427]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2019.04.03-09.29.06:121][600]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Standing_Melee_Downward)
+[2019.04.03-09.29.06:878][667]Cmd: DELETE
+[2019.04.03-09.29.06:878][667]Cmd: ACTOR DELETE
+[2019.04.03-09.29.06:975][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.04.03-09.29.07:014][667]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2019.04.03-09.29.08:321][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-09.29.08:392][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena" FILE="../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Levels/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.03-09.29.11:272][801]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ArenaDB23566148F0219E8E56838138D9D79A.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Levels/Arena.umap'
+[2019.04.03-09.29.11:354][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena_BuiltData" FILE="../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Levels/Arena_BuiltData.uasset" SILENT=true
+[2019.04.03-09.29.12:187][801]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Arena_BuiltData2BE0DB6A47F89302B96F8DBA254A1687.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Levels/Arena_BuiltData.uasset'
+[2019.04.03-09.29.15:787][ 36]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-09.29.15:893][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/ThirdPerson_AnimBPD31B5395412DCA237C58108B76D3F8C5.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Mannequin/ThirdPerson_AnimBP.uasset'
+[2019.04.03-09.29.15:937][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Attack_360_LowBCCA3C0F4E960BF4D66D19B316A014EB.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Pirate/Standing_Melee_Attack_360_Low.uasset'
+[2019.04.03-09.29.15:986][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Attack_BackhandCDE44C3642D0B8B25022FDACD18EF492.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Pirate/Standing_Melee_Attack_Backhand.uasset'
+[2019.04.03-09.29.16:029][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Attack_Downward95028D7243C839A595CADBADC846DE9B.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Pirate/Standing_Melee_Attack_Downward.uasset'
+[2019.04.03-09.29.16:154][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/Standing_Melee_Combo_Attack_Ver_436FA9804FFFD69EC064BFACF3A14419.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Animations/Pirate/Standing_Melee_Combo_Attack_Ver__1.uasset'
+[2019.04.03-09.29.16:194][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/UE4_Mannequin_Skeleton563E1DC744D15521673860952FD5FAE4.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Mannequin/UE4_Mannequin_Skeleton.uasset'
+[2019.04.03-09.29.16:203][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mixamo/Models/Pirate/default1" FILE="../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/default1.uasset" SILENT=true
+[2019.04.03-09.29.16:228][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/default193CD13EC4D3AB09AF66CABB8B694432B.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/default1.uasset'
+[2019.04.03-09.29.16:588][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov62161D64415A5342D2B1B7A476E8D9F6.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/pirate_p_konstantinov.uasset'
+[2019.04.03-09.29.16:621][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_PhysicsAss76610D804C229684A5F474BD7AD03ECF.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/pirate_p_konstantinov_PhysicsAsset.uasset'
+[2019.04.03-09.29.16:668][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/pirate_p_konstantinov_Skeleton79C2374B4D04BAD8F8947D9FCCC42D68.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/pirate_p_konstantinov_Skeleton.uasset'
+[2019.04.03-09.29.17:357][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/void_diffuse03F819B84D932D95CB8EF59D7044E62B.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/void_diffuse.uasset'
+[2019.04.03-09.29.17:589][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/void_normalBC86BA1044B8FECAC2642A9452B34A3C.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/void_normal.uasset'
+[2019.04.03-09.29.17:747][ 36]LogSavePackage: Moving '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Saved/void_specular30B582D6497B2C1ADBB4C988241B2F3A.tmp' to '../../../../../../Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/Mixamo/Models/Pirate/void_specular.uasset'
+[2019.04.03-09.29.17:896][ 36]LogSlate: Window 'ThirdPerson - Unreal Editor' being destroyed
+[2019.04.03-09.29.17:897][ 36]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-09.29.18:256][ 37]Cmd: QUIT_EDITOR
+[2019.04.03-09.29.19:270][ 37]LogExit: Preparing to exit.
+[2019.04.03-09.29.19:960][ 37]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.04.03-09.29.19:960][ 37]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.04.03-09.29.19:960][ 37]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.04.03-09.29.19:992][ 37]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Ryan Skull/Documents/Unreal Projects/ThirdPerson/Content/', and we were unable to create a new request.
+[2019.04.03-09.29.20:143][ 37]LogExit: Editor shut down
+[2019.04.03-09.29.20:145][ 37]LogExit: Transaction tracking system shut down
+[2019.04.03-09.29.21:203][ 37]LogExit: Object subsystem successfully closed.
+[2019.04.03-09.29.21:261][ 37]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.03-09.29.21:280][ 37]LogD3D11RHI: Shutdown
+[2019.04.03-09.29.21:280][ 37]LogD3D11RHI: CleanupD3DDevice
+[2019.04.03-09.29.21:302][ 37]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (640)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module AnimationEditor (638)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (636)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (634)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module PinnedCommandList (632)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module SkeletonEditor (630)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.04.03-09.29.21:366][ 37]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2019.04.03-09.29.21:367][ 37]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (620)
+[2019.04.03-09.29.21:367][ 37]LogModuleManager: Shutting down and abandoning module SceneOutliner (618)
+[2019.04.03-09.29.21:367][ 37]LogModuleManager: Shutting down and abandoning module AddContentDialog (616)
+[2019.04.03-09.29.21:371][ 37]LogModuleManager: Shutting down and abandoning module WidgetCarousel (615)
+[2019.04.03-09.29.21:371][ 37]LogModuleManager: Shutting down and abandoning module EditorWidgets (612)
+[2019.04.03-09.29.21:371][ 37]LogModuleManager: Shutting down and abandoning module CollectionManager (610)
+[2019.04.03-09.29.21:372][ 37]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.03-09.29.21:373][ 37]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.03-09.29.21:375][ 37]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.03-09.29.21:376][ 37]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.03-09.29.21:377][ 37]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.03-09.29.21:377][ 37]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.03-09.29.21:377][ 37]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.03-09.29.21:377][ 37]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.03-09.29.21:379][ 37]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.03-09.29.21:379][ 37]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.03-09.29.21:381][ 37]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.03-09.29.21:381][ 37]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.03-09.29.21:381][ 37]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.03-09.29.21:381][ 37]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.03-09.29.21:381][ 37]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.03-09.29.21:381][ 37]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.03-09.29.21:382][ 37]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.03-09.29.21:384][ 37]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.03-09.29.21:385][ 37]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.03-09.29.21:385][ 37]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.03-09.29.21:385][ 37]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.03-09.29.21:385][ 37]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.03-09.29.21:385][ 37]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.03-09.29.21:387][ 37]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.03-09.29.21:389][ 37]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.03-09.29.21:389][ 37]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.03-09.29.21:389][ 37]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.03-09.29.21:389][ 37]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.03-09.29.21:389][ 37]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.03-09.29.21:389][ 37]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.03-09.29.21:718][ 37]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.03-09.29.21:718][ 37]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.03-09.29.21:718][ 37]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.03-09.29.21:718][ 37]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.03-09.29.21:718][ 37]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.03-09.29.21:718][ 37]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.03-09.29.21:726][ 37]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.03-09.29.21:727][ 37]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.03-09.29.21:728][ 37]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.03-09.29.21:729][ 37]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.03-09.29.21:729][ 37]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.03-09.29.21:729][ 37]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.03-09.29.21:730][ 37]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.03-09.29.21:730][ 37]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.03-09.29.21:730][ 37]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.03-09.29.21:730][ 37]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.03-09.29.21:731][ 37]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.03-09.29.21:731][ 37]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.03-09.29.21:733][ 37]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.03-09.29.21:734][ 37]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.03-09.29.21:734][ 37]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.03-09.29.21:735][ 37]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.03-09.29.21:735][ 37]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.03-09.29.21:802][ 37]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.03-09.29.21:803][ 37]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.03-09.29.21:804][ 37]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.03-09.29.21:807][ 37]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.03-09.29.21:818][ 37]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.03-09.29.21:818][ 37]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.03-09.29.21:819][ 37]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.03-09.29.21:819][ 37]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.03-09.29.21:819][ 37]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.03-09.29.21:819][ 37]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.03-09.29.21:819][ 37]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.03-09.29.21:820][ 37]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.03-09.29.21:820][ 37]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.03-09.29.21:820][ 37]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.03-09.29.21:820][ 37]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.03-09.29.21:821][ 37]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.03-09.29.21:821][ 37]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.03-09.29.21:821][ 37]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.03-09.29.21:821][ 37]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.03-09.29.21:821][ 37]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.03-09.29.21:821][ 37]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.03-09.29.21:822][ 37]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.03-09.29.21:822][ 37]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.03-09.29.21:823][ 37]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.03-09.29.21:823][ 37]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.03-09.29.21:823][ 37]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.03-09.29.21:831][ 37]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.03-09.29.21:982][ 37]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.03-09.29.21:991][ 37]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.03-09.29.21:991][ 37]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.03-09.29.21:991][ 37]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.03-09.29.21:991][ 37]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.03-09.29.21:991][ 37]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.03-09.29.21:992][ 37]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.03-09.29.21:992][ 37]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.03-09.29.21:992][ 37]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.03-09.29.21:993][ 37]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.03-09.29.21:993][ 37]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.03-09.29.21:993][ 37]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.03-09.29.21:993][ 37]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.03-09.29.21:993][ 37]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.03-09.29.21:996][ 37]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.03-09.29.21:996][ 37]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.03-09.29.21:996][ 37]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.03-09.29.22:006][ 37]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.03-09.29.22:007][ 37]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.03-09.29.22:015][ 37]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.03-09.29.22:016][ 37]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.03-09.29.22:016][ 37]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.03-09.29.22:016][ 37]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.03-09.29.22:017][ 37]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.03-09.29.22:017][ 37]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.03-09.29.22:017][ 37]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.03-09.29.22:017][ 37]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.03-09.29.22:017][ 37]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.03-09.29.22:021][ 37]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.03-09.29.22:023][ 37]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.03-09.29.22:024][ 37]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.03-09.29.22:025][ 37]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.03-09.29.22:025][ 37]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.03-09.29.22:026][ 37]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.03-09.29.22:026][ 37]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.03-09.29.22:026][ 37]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.03-09.29.22:026][ 37]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.03-09.29.22:026][ 37]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.03-09.29.22:028][ 37]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.03-09.29.22:028][ 37]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.03-09.29.22:028][ 37]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.03-09.29.22:028][ 37]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.03-09.29.22:028][ 37]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.03-09.29.22:029][ 37]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.03-09.29.22:029][ 37]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.03-09.29.22:029][ 37]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.03-09.29.22:130][ 37]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.03-09.29.22:238][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.03-09.29.22:238][ 37]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.03-09.29.22:240][ 37]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.03-09.29.22:240][ 37]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.03-09.29.22:240][ 37]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.03-09.29.22:240][ 37]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.03-09.29.22:243][ 37]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.03-09.29.22:249][ 37]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.03-09.29.22:250][ 37]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.03-09.29.22:251][ 37]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.03-09.29.22:251][ 37]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.03-09.29.22:253][ 37]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.03-09.29.22:259][ 37]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.03-09.29.22:259][ 37]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.03-09.29.22:259][ 37]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.03-09.29.22:259][ 37]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.03-09.29.22:260][ 37]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.03-09.29.22:260][ 37]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.03-09.29.22:260][ 37]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.03-09.29.22:269][ 37]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.03-09.29.22:277][ 37]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.03-09.29.22:277][ 37]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.03-09.29.22:277][ 37]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.03-09.29.22:278][ 37]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.03-09.29.22:278][ 37]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.03-09.29.22:278][ 37]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.03-09.29.22:278][ 37]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.03-09.29.22:279][ 37]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.03-09.29.22:280][ 37]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.03-09.29.22:280][ 37]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.03-09.29.22:282][ 37]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.03-09.29.22:282][ 37]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.03-09.29.22:284][ 37]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.03-09.29.22:284][ 37]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.03-09.29.22:284][ 37]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.03-09.29.22:284][ 37]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.03-09.29.22:290][ 37]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.03-09.29.22:290][ 37]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.03-09.29.22:296][ 37]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.03-09.29.22:296][ 37]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.03-09.29.22:302][ 37]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.03-09.29.22:305][ 37]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.03-09.29.22:306][ 37]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.03-09.29.22:307][ 37]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.03-09.29.22:307][ 37]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.03-09.29.22:308][ 37]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.03-09.29.22:311][ 37]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.03-09.29.22:311][ 37]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.03-09.29.22:312][ 37]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.03-09.29.22:312][ 37]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.03-09.29.22:314][ 37]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.03-09.29.22:416][ 37]LogDerivedDataCache: Shutdown
+[2019.04.03-09.29.22:416][ 37]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.03-09.29.22:424][ 37]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.03-09.29.22:425][ 37]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.03-09.29.22:426][ 37]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.03-09.29.22:430][ 37]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.03-09.29.22:430][ 37]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.03-09.29.22:430][ 37]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.03-09.29.22:431][ 37]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.03-09.29.22:431][ 37]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.03-09.29.22:431][ 37]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.03-09.29.22:431][ 37]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.03-09.29.22:432][ 37]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.03-09.29.22:459][ 37]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.03-09.29.22:459][ 37]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.03-09.29.22:459][ 37]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.03-09.29.22:459][ 37]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.03-09.29.22:459][ 37]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.03-09.29.22:471][ 37]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.03-09.29.22:471][ 37]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.03-09.29.22:479][ 37]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.03-09.29.22:479][ 37]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.03-09.29.22:555][ 37]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.03-09.29.22:556][ 37]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.03-09.29.22:557][ 37]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.03-09.29.22:557][ 37]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.03-09.29.22:557][ 37]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.03-09.29.22:557][ 37]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.03-09.29.22:558][ 37]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.03-09.29.22:558][ 37]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.03-09.29.22:560][ 37]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.03-09.29.22:565][ 37]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.03-09.29.22:594][ 37]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.03-09.29.22:595][ 37]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.03-09.29.22:595][ 37]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1F2C73BF-47BC-2D64-E612-10B74AE751B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=eb1d0a4145253c2a444fe5b06f90ffc7%7Cf508201edf4a444a8c5ce4c871d3e9ea%7C67639657-8e55-4ef5-b77c-3614a0ff3afd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.03-09.29.22:606][ 37]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.03-09.29.22:610][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.03-09.29.22:610][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.03-09.29.22:610][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.03-09.29.22:610][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.03-09.29.22:610][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.03-09.29.22:611][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.03-09.29.22:611][ 37]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.03-09.29.22:612][ 37]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.03-09.29.22:612][ 37]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.03-09.29.22:613][ 37]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.03-09.29.22:614][ 37]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.03-09.29.22:615][ 37]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.03-09.29.22:616][ 37]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.03-09.29.22:617][ 37]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.03-09.29.22:617][ 37]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.03-09.29.22:617][ 37]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.03-09.29.22:617][ 37]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.03-09.29.22:620][ 37]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.03-09.29.22:620][ 37]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.03-09.29.22:620][ 37]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.03-09.29.22:621][ 37]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.03-09.29.22:621][ 37]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.03-09.29.22:621][ 37]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.03-09.29.22:621][ 37]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.03-09.29.22:621][ 37]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.03-09.29.22:621][ 37]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.03-09.29.22:622][ 37]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.03-09.29.22:622][ 37]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.03-09.29.22:646][ 37]LogExit: Exiting.
+[2019.04.03-09.29.22:687][ 37]Log file closed, 04/03/19 10:29:22
